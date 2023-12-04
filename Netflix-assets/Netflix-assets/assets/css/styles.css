@@ -1,0 +1,30 @@
+*,
+html {
+  box-sizing: border-box;
+  background-color: black;
+}
+
+html {
+  background-color: black;
+}
+
+div.container-fluid > a {
+  width: 10% !important;
+}
+
+div.d-flex div.nav-item {
+    width: 30% !important;
+  }
+
+div.d-flex div.nav-item > a {
+  width: 30% !important;
+}
+
+main section nav div.container-fluid div.d-flex {
+    margin-right: 5%;
+}
+
+main section nav div.container-fluid div.d-flex i {
+    width: 3.5rem !important;
+    cursor: pointer;
+}
